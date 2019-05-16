@@ -1,0 +1,13 @@
+* Project Developed using Asp.Net Core 2.0 and EntityFrameworkCore 2.0.3 
+
+1- Restore restore nuget packages or delete project.assets file.
+
+2-Change DB context options setting in appsetting of "ProductCatalog.Service" project and add migration.
+
+3- Run MVC Project "ProductCatalog.Service"
+
+4- You can try any feature View Products, Edit, Remove,Product Details, Export To Excel.
+
+5- In Product Page header you can link to swagger documentaion. 
+
+
